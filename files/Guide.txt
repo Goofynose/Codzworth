@@ -1,0 +1,45 @@
+################################
+#       HOW TO GUIDE           #
+################################
+
+[1. Menu Bar]
+
+There are two options in the menu bar.
+
+The first option is called 'File', and the second option
+is called 'Help'.
+
+'File' has three sub-options:
+	-	'Open' allows to open a .cdz type file. The selected
+		File will be displayed.
+	-	'Export' allows to save the data currently displayed
+		as a JPG image file.
+	-	'Start CdzConnect' starts the connection utility. It
+		is used to receive live data which is written to a .cdz file.
+
+'Help has three sub-options:
+	-	'How to use ...' displays this page.
+	-	'Credits' displays the credits page.
+	-	'License' displays the full GNU General Public License.
+
+[2. Heat Map]
+
+Below the menu bar are settings related to the Heat Map displays located at
+the centre of the GUI.
+
+The 'Update Map' button refreshes the Heat Map display. The button has to be
+clicked every time settings are changed.
+
+The 'Colour Gradient' selection allows the user to change which colour
+gradient is used to display the Heat Map.
+
+The 'Graph Options' selection allows to show/hide different parts of the
+Heat Map.
+
+[3. Information]
+
+On the right is located an information section regarding the file currently open.
+
+################################
+#             END              #
+################################

@@ -1,0 +1,2 @@
+Special thanks to Matthew Beckler for providing the open source
+HeatMap 1.6 code used in this application.
